@@ -1,6 +1,8 @@
 # Site
 title: A civilized developer
-bio: "Minimal, one column jekyll theme."
+bio: >-
+  A civilized Java/Scala web application developer<br>
+  living in Busan, Republic of Korea (South Korea)
 description: "Moon is a minimal, one column jekyll theme for your blog."
 reading_time: true
 words_per_minute: 200

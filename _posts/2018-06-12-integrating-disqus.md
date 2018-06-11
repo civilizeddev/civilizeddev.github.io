@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Integrating Disqus"
+excerpt: "Jekyll & Disqus 연동"
 date: 2018-06-12 00:30:00 +0900
-tags: [jekyll, disqus]
+tags:
+  - jekyll
+  - disqus
 comments: true
 ---
 

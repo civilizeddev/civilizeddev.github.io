@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "스칼라 vs 파이썬 (List Comprehension)"
+excerpt: "리스트 처리 연산 비교"
 date: 2018-06-10 21:00:00 +0900
 tags: [python, scala]
+comments: true
 ---
 
 ### 스칼라

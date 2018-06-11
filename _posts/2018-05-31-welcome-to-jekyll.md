@@ -1,8 +1,12 @@
 ---
 layout: post
 title: "Welcome to Jekyll!"
+excerpt: "Jekyll 설치하기"
 date: 2018-05-31 21:00:00 +0900
-tags: [jekyll, update]
+tags:
+  - jekyll
+  - update
+comments: true
 ---
 
 # Jekyll 설치하기
