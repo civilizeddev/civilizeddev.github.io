@@ -24,6 +24,8 @@ twitter_username: hisgodlyseed
 # linkedin_username: hyeonsoo-lee-ba3579154
 github_username:  civilizeddev
 google_analytics: UA-80335343-1
+disqus:
+  shortname: a-civilized-developer
 
 # Build settings
 markdown: kramdown
