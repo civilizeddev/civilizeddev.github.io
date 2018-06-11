@@ -19,10 +19,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   A civilized Java/Scala web application developer
   living in Busan, Republic of Korea (South Korea)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://civilizeddev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hisgodlyseed
 # linkedin_username: hyeonsoo-lee-ba3579154
-github_username:  civilizeddev
+github_username: civilizeddev
 google_analytics: UA-80335343-1
 disqus:
   shortname: a-civilized-developer
