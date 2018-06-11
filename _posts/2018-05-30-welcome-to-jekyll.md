@@ -69,3 +69,7 @@ jeykll new . --force # 빈 디렉토리가 아니어도 강제 생성
 ```bash
 bundle exec jekyll serve
 ```
+
+## References
+
+- [Jekyll Cheatsheet](https://devhints.io/jekyll)
