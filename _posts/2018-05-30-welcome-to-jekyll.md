@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-05-30 21:00:00 +0900
-categories: jekyll update
+tags: [jekyll, update]
 ---
 
 # Jekyll 설치하기

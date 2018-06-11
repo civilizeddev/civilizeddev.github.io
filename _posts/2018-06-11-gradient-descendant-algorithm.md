@@ -2,7 +2,7 @@
 layout: post
 title: "Gradient Descendant Algorithm"
 date: 2018-06-11 21:00:00 +0900
-categories: python scala "machine learning" "linear regression"
+tags: [python, scala, machine learning, linear regression]
 published: false
 ---
 

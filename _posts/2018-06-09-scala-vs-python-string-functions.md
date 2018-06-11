@@ -2,7 +2,7 @@
 layout: post
 title: "스칼라 vs 파이썬 (문자열 함수)"
 date: 2018-06-09 21:00:00 +0900
-categories: python scala
+tags: [python, scala]
 ---
 머신러닝 강의를 듣는데, 죄다 파이썬을 쓰고 있어서 일단 파이썬을 조금 알아보기로 했다.
 
