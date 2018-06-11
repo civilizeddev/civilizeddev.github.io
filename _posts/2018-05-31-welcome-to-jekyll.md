@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-30 21:00:00 +0900
+title: "Welcome to Jekyll!"
+date: 2018-05-31 21:00:00 +0900
 tags: [jekyll, update]
 ---
 

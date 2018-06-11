@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "스칼라 vs 파이썬 (List Comprehension)"
-date: 2018-06-09 21:00:00 +0900
+date: 2018-06-10 21:00:00 +0900
 tags: [python, scala]
 ---
 

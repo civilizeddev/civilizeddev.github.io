@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Integrating Disqus"
-date: 2018-06-11 23:00:00 +0900
+date: 2018-06-12 00:30:00 +0900
 tags: [jekyll, disqus]
 comments: true
 ---
