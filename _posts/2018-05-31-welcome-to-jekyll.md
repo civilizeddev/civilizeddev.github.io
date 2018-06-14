@@ -36,7 +36,7 @@ sudo apt install zlib1g-dev
 Jekyll은 루비 패키지로 배포된다.
 
 ```bash
-sudo apt ruby ruby-dev
+sudo apt install ruby ruby-dev
 ```
 
 ## Rubygems 환경변수 등록
