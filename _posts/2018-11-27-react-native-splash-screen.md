@@ -51,10 +51,10 @@ comments: true
 
 ## MainActivity 수정
 
-```kotlin
-override fun onCreate(savedInstanceState: Bundle?) {
-    SplashScreen.show(this)
-    super.onCreate(savedInstanceState)
+```java
+void onCreate(Bundle savedInstanceState) {
+    SplashScreen.show(this);
+    super.onCreate(savedInstanceState);
 }
 ```
 
