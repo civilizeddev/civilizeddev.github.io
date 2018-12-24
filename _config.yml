@@ -40,8 +40,8 @@ google:
  #ad-slot:
 #bing-verify:
 email: hyeonsoo.david.lee@gmail.com
-twitter: hisgodlyseed
-# facebook: username
+#twitter: hisgodlyseed
+#facebook: username
 github-url: civilizeddev
 stackoverflow: 4322423/hyeonsoo-david-lee
 linkedin: hyeonsoo-lee-ba3579154
@@ -63,6 +63,7 @@ linkedin: hyeonsoo-lee-ba3579154
 #keybase: username
 #xmpp: username@server.com
 #hackernews: username
+hackerrank: civilizeddev
 
 plugins:
  - jekyll-mentions
