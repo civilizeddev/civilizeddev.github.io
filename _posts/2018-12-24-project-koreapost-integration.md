@@ -2,7 +2,7 @@
 layout: post
 title: "운송사 Koreapost(우체국) K-packet 배송 접수 API 통합 구현"
 date: 2017-02-28
-excerpt: "2016-10 ~ 2016-10 (1개월)"
+excerpt: "2017-02 ~ 2017-02 (1개월)"
 project: true
 tag:
   - simpleglobal-one
