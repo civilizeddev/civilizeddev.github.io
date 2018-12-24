@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Logos-Glovis EDI 통합 구현"
+title: "Logos Logistics - Glovis 간 EDI 통합 구현"
 date: 2017-01-31
 excerpt: "2016-12 ~ 2017-01 (2개월)"
 project: true
