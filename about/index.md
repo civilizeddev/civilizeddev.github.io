@@ -156,7 +156,7 @@ comments: false
 | Eclipse | IDE | |
 | **[IntelliJ IDEA](https://www.jetbrains.com/idea/)** | IDE | |
 | [Visual Studio Code](https://code.visualstudio.com/) | IDE | JS 프로젝트에서 사용 |
-| [Jenkins](https://jenkins.io/) | CI | 빌드/테스트/베포 자동화 |
+| [Jenkins](https://jenkins.io/) | CI | 빌드/테스트/배포 자동화 |
 | CVS/SVN/**Git** | Version Control | |
 | Jira | Issue/Task Tracker | |
 | Confluence | Co-work | |
