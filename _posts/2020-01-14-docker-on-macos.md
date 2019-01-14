@@ -11,7 +11,7 @@ comments: true
 
 # Docker on MacOS
 
-Docker 홈페이지 가이드[^1]에는 Python3 PIP를 통한 설치 방법만 소개되어 있다. 하지만 MacOS 사용자라면 Homebrew를 통해서 간단하게 설치할 수 있다.
+Docker 홈페이지 가이드[^1]에는 dmg 다운로드를 통한 설치 방법만 소개되어 있다. 하지만 MacOS 사용자라면 Homebrew를 통해서 간단하게 설치할 수 있다.
 
 # 설치 방법
 
