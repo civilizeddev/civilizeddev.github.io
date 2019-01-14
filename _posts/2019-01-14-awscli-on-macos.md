@@ -16,7 +16,7 @@ AWS 홈페이지 가이드[^1]에는 Python3 PIP를 통한 설치 방법만 소�
 # 설치 방법
 
 ```
-$ homebrew install awscli
+$ brew install awscli
 ```
 
 # 결론
@@ -26,3 +26,4 @@ Homebrew 짱
 ---
 
 [^1]: https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/install-macos.html
+
