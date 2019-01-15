@@ -91,6 +91,15 @@ workflows:
 
 GitHub이 Private Repository를 무료로 전환하고, Circle CI는 Private Repository도 배포할 수 있으니까 개인 프로젝트 할 수 있는 환경이 매우 좋아졌다. 간단한게 경쟁력이다. CircleCI를 계속 써봐야 겠다. (계속)
 
+<figure>
+	<a href="/assets/img/circle-ci-20190114.png">
+    <img src="/assets/img/circle-ci-20190114.png" />
+  </a>
+	<figcaption>
+    Circle-CI의 UI
+  </figcaption>
+</figure>
+
 ---
 
 [^1]: https://stackshare.io/stackups/circleci-vs-jenkins-vs-travis-ci
