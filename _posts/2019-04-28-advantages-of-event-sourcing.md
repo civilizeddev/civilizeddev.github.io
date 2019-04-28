@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "이벤트 소싱(Event Sourcing)의 장점"
-excerpt: "Lagom 문서의 'Advantages of Event Sourcing'를 번역한 글입니다."
+excerpt: "Lagom 문서의 'Advantages of Event Sourcing'를 번역하고 주해한 글입니다."
 date: 2019-04-28
 tags:
   - akka
