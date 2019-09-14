@@ -1,0 +1,8 @@
+{
+  "name": "civilizeddev.github.io",
+  "description": "VSCode에서 아래 스크립트 실행",
+  "scripts": {
+    "setup": "bundle install",
+    "serve": "bundle exec jekyll serve"
+  }
+}
