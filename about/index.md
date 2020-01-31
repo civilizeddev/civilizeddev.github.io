@@ -3,28 +3,31 @@ layout: page
 title: Biography
 tags:
     - about
-date: 2018-12-24
+date: 2020-01-31
 comments: false
 ---
 
-> 돈 많이 주면 Java도 하겠지만 웬만하면 Scala로 밥벌이하고 싶은 개발자입니다. ~~(그런데 회사가 없어요)~~
+![](/assets/img/aws-certified-logo_color-horz_360x60.png)
+![](/assets/img/solutions-architect-associate-tag_360x32.png)
 
 <center>
     <figure>
-        <img src="/assets/img/logo.png" style="width: 200px;" alt="사진">
-        <figcaption>
-            들고 있는 악기는 <a href="https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%BF%A8%EB%A0%90%EB%A0%88">우쿨렐레</a> 입니다.
-        </figcaption>
+        <img src="/assets/img/profile.jpeg" style="width: 200px;" alt="사진">
+        <figcaption>우리의 신조: 밥값. 돈값. 몸값.</figcaption>
     </figure>
 </center>
 
 # 이 현수, Lee Hyeonsoo
 
-**JVM 개발자** 주로 JVM 웹 애플리케이션을 개발했습니다. (Java 개발자라고 하지 않는 이유는, Scala도 하기 때문에)
+~~**JVM 개발자** 주로 JVM 웹 애플리케이션을 개발했습니다. (Java 개발자라고 하지 않는 이유는, Scala도 하기 때문에)~~
+{: .notice}
+**TypeScript 개발자** 저는 이제 Node.js 플랫폼에서 TypeScript로 개발합니다. ~~Java는 이제 안녕~~
 {: .notice}
 **풀스택 개발자** 프론트엔드/백엔드를 두루 개발했습니다.
 {: .notice}
-**DevOps** 서버/인프라 관리 경험도 있습니다.
+**Solutions Architect** [AWS 공인 솔루션 아키텍트 - 준전문가](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-01-30&ci=AWS00943216)입니다. (시험 공부 외워서 딴 거 아니고, 실무 경험으로 땄음)
+{: .notice}
+**DevOps** 서버/인프라 관리와 CI/CD 실무 경험 있습니다.
 {: .notice}
 
 <br>
@@ -37,11 +40,11 @@ comments: false
 
 | 회사 | 소속 | 직급 | 담당 | 근무기간 |
 |:---|:---|:---|:---|:---|
-| [(주)무스마](http://www.musma.net/) | 기술연구소 | 선임연구원 | 백엔드 엔지니어 | 2019-현재 |
+| [(주)무스마](https://www.musma.net/) | 기술연구소 | 선임연구원 | 솔루션 아키텍트, 백엔드 엔지니어, DevOps | 2019-현재 |
 | [(주)이멕스](http://imex.co.kr/) | 개발팀 | 대리 | 웹 애플리케이션 개발, 유지보수 | 2015-2019(3년) |
 | [(주)토탈소프트뱅크](http://www.tsb.co.kr) | CATOS(개발)팀 | 팀원 | 웹 애플리케이션 개발, 유지보수 | 2012-2015(3년) |
 |===
-| | | | | **6년+** |
+| | | | | **7년+** |
 {: rules="groups"}
 
 <br>
@@ -74,6 +77,8 @@ comments: false
 | [CSTS 소프트웨어 테스트 전문가 Foundation Level](https://sw.tta.or.kr/service/csts_it.jsp) | [TTA](https://www.tta.or.kr/) | 2015-07-15 | 2015-CSTS-F-118 |
 | [ISTQB 소프트웨어 테스트 전문가 Foundation Level](https://www.sten.or.kr/bbs/board.php?bo_table=sten_ist) | [ISTQB](https://www.istqb.org/) | 2016-05-24 | #istqb-kstqb160294 |
 | [전국한자능력검정시험(3급)](https://ko.wikipedia.org/wiki/%EC%A0%84%EA%B5%AD%ED%95%9C%EC%9E%90%EB%8A%A5%EB%A0%A5%EA%B2%80%EC%A0%95%EC%8B%9C%ED%97%98) | 한국어문회 | 2018-09-21 | 82-333-0008 |
+| [AI Testing Certified Tester (KSTQB & CSTQB-AIT) / Foundation](http://www.kstqb.org/sw/sw3_6.asp) | [KSTQB](http://www.kstqb.org/) | 2019-12-20 | #KSTQB-AIT-19011 |
+| [AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-01-30&ci=AWS00943216) | AWS | 2020-01-30 | Z8DL58W1NF11QSSQ |
 {: rules="groups"}
 
 <br>
@@ -105,7 +110,7 @@ comments: false
 | **스칼라(Scala)** | 언어/JVM | |
 | 자바(Java) | 언어/JVM | Scala `>>>` Java(8+) + [Lombok](https://projectlombok.org/) + [Vavr](http://www.vavr.io/) |
 | 자바스크립트(JavaScript) | 언어/JS | ECMA2015+ |
-| **[타입스크립트(TypeScript)](https://www.typescriptlang.org/)** | 언어/JS | |
+| **[타입스크립트(TypeScript)](https://www.typescriptlang.org/)** | 언어/JS | **현재 주력 언어** |
 {: rules="groups"}
 
 ### 데이터베이스
@@ -114,29 +119,35 @@ comments: false
 |:---|:---|:---|
 | Oracle | RDBMS | |
 | **MySQL/MariaDB** | RDBMS | 가장 많이 사용 |
-| [Spring Data JPA](http://spring.io/projects/spring-data-jpa) | [ORM](https://ko.wikipedia.org/wiki/%EA%B0%9D%EC%B2%B4_%EA%B4%80%EA%B3%84_%EB%A7%A4%ED%95%91) | [Hibernate](http://hibernate.org/orm/) + [QueryDSL](http://www.querydsl.com/) |
-| [MyBatis](https://github.com/mybatis/mybatis-3) | Data Mapper | |
+| PostgreSQL/Aurora | RDBMS | |
+| **Amazon DynamoDB** | Key/Value | |
+| MongoDB | Document | |
+| [Spring Data JPA](http://spring.io/projects/spring-data-jpa) | Java/[ORM](https://ko.wikipedia.org/wiki/%EA%B0%9D%EC%B2%B4_%EA%B4%80%EA%B3%84_%EB%A7%A4%ED%95%91) | [Hibernate](http://hibernate.org/orm/) + [QueryDSL](http://www.querydsl.com/) |
+| [MyBatis](https://github.com/mybatis/mybatis-3) | Java/Data Mapper | |
+| [Sequelize](https://sequelize.org/) | Node.js/ORM | 
 {: rules="groups"}
 
 ### 웹 프레임워크 + 보안
 
 | 항목명 | 구분 | 비고 |
 |:---|:---|:---|
-| Spring Framework/MVC | 웹 프레임워크 |  |
-| [Play Framework](https://www.playframework.com/) | 웹 프레임워크 | |
-| Spring Security | 웹 보안 | |
+| Express | Node.js/웹 프레임워크 | |
+| [Casbin](https://casbin.org/) | Node.js/권한 관리 | |
+| Spring Framework/MVC | Java/웹 프레임워크 | |
+| [Play Framework](https://www.playframework.com/) | Scala/웹 프레임워크 | |
+| Spring Security | Java/보안 | |
 {: rules="groups"}
 
 ### 프론트엔드/자바스크립트
 
 | 항목명 | 구분 | 비고 |
 |:---|:---|:---|
-| jQuery | DOM | |
 | **[React](https://reactjs.org/)** | View | 가장 선호하는 JS 뷰 라이브러리 |
 | [React Native](https://facebook.github.io/react-native/) | iOS/Android | |
 | [Redux](https://redux.js.org/) | 상태 관리 | |
 | **[MobX](https://github.com/mobxjs/mobx)** | 상태 관리 | |
-| **[WebPack](https://webpack.js.org/)** | 빌드 | |
+| **[WebPack](https://webpack.js.org/)** | 번들링 | |
+| ParcelJS | 번들링 | |
 {: rules="groups"}
 
 ### 테스팅
@@ -144,10 +155,10 @@ comments: false
 | 항목명 | 구분 | 비고 |
 |:---|:---|:---|
 | [JUnit4](https://junit.org/junit4/) | Testing/JVM | |
-| **[JUnit5](https://junit.org/junit5/)** | Testing/JVM | |
+| [JUnit5](https://junit.org/junit5/) | Testing/JVM | |
 | [Spock](http://spockframework.org/) | Testing/JVM | |
 | [ScalaCheck](https://www.scalacheck.org/) | Testing/JVM | |
-| [Jest](https://jestjs.io/) | Testing/JS | |
+| **[Jest](https://jestjs.io/)** | Testing/JS | |
 {: rules="groups"}
 
 ### 개발 환경
@@ -156,8 +167,10 @@ comments: false
 |:---|:---|:---|
 | Eclipse | IDE | |
 | **[IntelliJ IDEA](https://www.jetbrains.com/idea/)** | IDE | |
-| [Visual Studio Code](https://code.visualstudio.com/) | IDE | JS 프로젝트에서 사용 |
+| **[Visual Studio Code](https://code.visualstudio.com/)** | IDE | JS 프로젝트에서 사용 |
 | [Jenkins](https://jenkins.io/) | CI | 빌드/테스트/배포 자동화 |
+| [CircleCI](https://circleci.com/) | CI | 빌드/테스트/배포 자동화 |
+| **[GitHub Actions](https://github.com/features/actions)** | CI | 빌드/테스트/배포 자동화 |
 | CVS/SVN/**Git** | Version Control | |
 | Jira | Issue/Task Tracker | |
 | Confluence | Co-work | |
@@ -165,21 +178,19 @@ comments: false
 | **Gradle** | Build/Dependencies(JVM) | |
 | **sbt** | Build/Dependencies(JVM) | |
 | npm | Package/Dependencies(JS) | |
-| [Yarn](https://yarnpkg.com/en/) | Package/Dependencies(JS) | |
+| **[Yarn](https://yarnpkg.com/en/)** | Package/Dependencies(JS) | |
 | Docker | Linux Container | |
-| [JFrog Artifactory](https://jfrog.com/artifactory/) | Package Repository | 사내 패키지 저장소 |
+| [JFrog Artifactory](https://jfrog.com/artifactory/) | Package Repository | 패키지 저장소 |
+| **[GitHub Packages](https://github.com/features/packages)** | Package Repository | 패키지 저장소 |
 {: rules="groups"}
 
-### AWS 인프라 (사용/관리)
+### AWS 클라우드 인프라
 
 | 항목명 | 구분 | 비고 |
 |:---|:---|:---|
-| EC2 | Computing | |
-| Beanstalk | Application | |
-| S3 | Storage | |
-| CloudFront | Storage | |
-| RDS | RDBMS | |
-| VPC | Network/Security | |
+| [AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-01-30&ci=AWS00943216) | 공인 솔루션 아키텍트 - 준전문가 | 클라우드 아키텍처 설계 |
+| [Terraform](https://www.terraform.io/) | Infrastructure as Code | 인프라 프로비저닝 도구 |
+| **[AWS CDK](https://aws.amazon.com/ko/cdk/)** | Infrastructure as Code | 인프라 프로비저닝 도구 |
 {: rules="groups"}
 
 <br>
@@ -194,6 +205,7 @@ comments: false
 |:---|:---|:---|:---|
 | [2018 카카오 경력 공채](https://civilizeddev.github.io/2018/05/24/2018-카카오-경력공채.html) | [카카오](https://careers.kakao.com/) | Java 서버 개발자 인터뷰, 코딩 테스트 | 2018-04-04 ~ 2018-05-24 |
 | [제이펍 베타리더스 7기](http://jpub.tistory.com/notice/803) | [제이펍](http://www.jpub.kr/) | 코드 테스트, 오탈자 확인, 내용 검증 등 | 2018-06-21 ~ 2019-01-31 |
+| [제이펍 베타리더스 8기](https://jpub.tistory.com/notice/891) | [제이펍](http://www.jpub.kr/) | 코드 테스트, 오탈자 확인, 내용 검증 등 | 2019-01-11 ~ 2019-01-20 |
 {: rules="groups"}
 
 <br>
