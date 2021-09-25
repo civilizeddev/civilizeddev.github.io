@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>교양있는 개발자, 데이비드의 블로그 Blog</title>
+        <link>https://civilizeddev.github.io/blog</link>
+        <description>교양있는 개발자, 데이비드의 블로그 Blog</description>
+        <lastBuildDate>Fri, 17 Apr 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프리랜서와 유튜버를 위한 [기초 세금 가이드]]]></title>
+            <link>https://civilizeddev.github.io/blog/00bf45de-b124-465b-93e9-bfb1451773a6</link>
+            <guid>00bf45de-b124-465b-93e9-bfb1451773a6</guid>
+            <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[인프런 강의 프리랜서와 유튜버를 위한 [기초 세금 가이드]의 리뷰어로 선정되어, 강의를 수강하고 작성한 후기입니다.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript 시작하기]]></title>
+            <link>https://civilizeddev.github.io/blog/typescript-getting-started</link>
+            <guid>typescript-getting-started</guid>
+            <pubDate>Thu, 16 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[안녕하세요, 교양있는 개발자 데이비드입니다.]]></description>
+        </item>
+    </channel>
+</rss>
