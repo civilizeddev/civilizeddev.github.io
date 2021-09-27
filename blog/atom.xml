@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://civilizeddev.github.io/blog</id>
     <title>교양있는 개발자, 데이비드의 블로그 Blog</title>
-    <updated>2020-04-17T00:00:00.000Z</updated>
+    <updated>2021-09-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://civilizeddev.github.io/blog"/>
     <subtitle>교양있는 개발자, 데이비드의 블로그 Blog</subtitle>
     <icon>https://civilizeddev.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기본 스토리지 클래스 변경하기]]></title>
+        <id>how-to-change-the-default-storageclass-in-k8s</id>
+        <link href="https://civilizeddev.github.io/blog/how-to-change-the-default-storageclass-in-k8s"/>
+        <updated>2021-09-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[cka]]></summary>
+        <author>
+            <name>David Lee</name>
+            <uri>https://www.linkedin.com/in/civilizeddev/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프리랜서와 유튜버를 위한 [기초 세금 가이드]]]></title>
         <id>00bf45de-b124-465b-93e9-bfb1451773a6</id>

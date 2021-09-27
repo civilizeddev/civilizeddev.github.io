@@ -4,9 +4,16 @@
         <title>교양있는 개발자, 데이비드의 블로그 Blog</title>
         <link>https://civilizeddev.github.io/blog</link>
         <description>교양있는 개발자, 데이비드의 블로그 Blog</description>
-        <lastBuildDate>Fri, 17 Apr 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기본 스토리지 클래스 변경하기]]></title>
+            <link>https://civilizeddev.github.io/blog/how-to-change-the-default-storageclass-in-k8s</link>
+            <guid>how-to-change-the-default-storageclass-in-k8s</guid>
+            <pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[cka]]></description>
+        </item>
         <item>
             <title><![CDATA[프리랜서와 유튜버를 위한 [기초 세금 가이드]]]></title>
             <link>https://civilizeddev.github.io/blog/00bf45de-b124-465b-93e9-bfb1451773a6</link>
