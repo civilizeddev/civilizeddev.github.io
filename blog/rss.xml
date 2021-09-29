@@ -4,9 +4,16 @@
         <title>교양있는 개발자, 데이비드의 블로그 Blog</title>
         <link>https://civilizeddev.github.io/blog</link>
         <description>교양있는 개발자, 데이비드의 블로그 Blog</description>
-        <lastBuildDate>Tue, 28 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GitHub 가입하기]]></title>
+            <link>https://civilizeddev.github.io/blog/signing-up-for-github-account</link>
+            <guid>signing-up-for-github-account</guid>
+            <pubDate>Wed, 29 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introduce]]></description>
+        </item>
         <item>
             <title><![CDATA[vscode-server 사용 중 extensions/git/dist/askpass.sh: No such file or directory 오류]]></title>
             <link>https://civilizeddev.github.io/blog/how-to-fix-askpass-no-such-file-or-directory-when-using-vscode-server</link>
