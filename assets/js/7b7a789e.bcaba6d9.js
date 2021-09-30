@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcivilizeddev_github_io=self.webpackChunkcivilizeddev_github_io||[]).push([[4457],{582:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/vscode-server","name":"vscode-server","count":1,"permalink":"/blog/tags/vscode-server"}')}}]);

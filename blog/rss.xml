@@ -4,9 +4,16 @@
         <title>교양있는 개발자, 데이비드의 블로그 Blog</title>
         <link>https://civilizeddev.github.io/blog</link>
         <description>교양있는 개발자, 데이비드의 블로그 Blog</description>
-        <lastBuildDate>Wed, 29 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ERROR: The Python ssl extension was not compiled. Missing the OpenSSL lib?]]></title>
+            <link>https://civilizeddev.github.io/blog/missing-libssl-dev</link>
+            <guid>missing-libssl-dev</guid>
+            <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[상황]]></description>
+        </item>
         <item>
             <title><![CDATA[GitHub 가입하기]]></title>
             <link>https://civilizeddev.github.io/blog/signing-up-for-github-account</link>
